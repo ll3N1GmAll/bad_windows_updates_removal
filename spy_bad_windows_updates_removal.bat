@@ -22,4 +22,5 @@ wusa /uninstall /kb:3065987 /norestart
 wusa /uninstall /kb:3068708 /norestart
 wusa /uninstall /kb:3075249 /norestart
 wusa /uninstall /kb:3080149 /norestart
+wusa /uninstall /kb:2976978 /norestart
 END
